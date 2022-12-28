@@ -1,6 +1,6 @@
 # ComputerVision
 ImageClassification:  
-&ensp the AlexNet, VGG16, GoogLeNet, and ResNet are implemented for an image dataset with 20 classes.  
+- the AlexNet, VGG16, GoogLeNet, and ResNet are implemented for an image dataset with 20 classes.  
   
 References:  
 - A. Rosebrock, Deep Learning for Computer Vision with Python (2017)
